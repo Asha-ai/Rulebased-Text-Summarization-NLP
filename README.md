@@ -7,6 +7,9 @@ Automatic text summarization methods are greatly needed to address the ever-grow
 relevant information and to consume relevant information faster.
 here for rule based text summarization using NLTK for munging texttokenization,
 stopword removal etc
+# Advantages of text summarization
+Text Summarisation can be used to enable humans to quickly digest the content of large volumes of documents without the need to fully read them. 
+An example of this is news feeds or scientific publications where there is a large volume of documents being constantly generated.
 steps:
 Find most important words
 Compute a significance score for sentences based on words they contain
