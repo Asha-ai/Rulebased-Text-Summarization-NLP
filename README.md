@@ -1,4 +1,5 @@
-# Rulebased-Text-Summarization-NLP
+# Rulebased-Text-Summarization function-NLP 
+## Auto text summarization
 Automatic text summarization is the data science problem of creating a short, accurate, and fluent summary from a longer document.
 Summarization methods are greatly needed to consume the ever-growing amount of text data available online. In essence, summarization is meant to help us consume relevant information faster.Text summarization is the problem of creating a short, accurate, and fluent summary of a longer text document.
 
